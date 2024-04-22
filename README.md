@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GerardoUNY
+- 👀 I’m interested in Software Engineering, Electronic Engineering, Learning how to code 
+- 🌱 I’m currently learning Python,JS,HTML,CSS,C,C++,C#
+- 💞️ I’m looking to collaborate on Projects, Learning, Knowledge Adquisition, Work from Home
+- 📫 How to reach me ingerardorf2001@gmail.com
